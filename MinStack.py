@@ -6,7 +6,7 @@
 ### Beats 95% of submissions for time complexity, 91% of submissions for space complexity
 ### O(1) for push, pop, and return top and min
 
-### Note to self: read about why ternary operators achieve faster results than simple if/else statements
+### Note to self: Does ternary operator achieve higher performance?
 
 class MinStack(object):
     
